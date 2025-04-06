@@ -1,2 +1,0 @@
-include server/feeds.json
-recursive-include server/templates *

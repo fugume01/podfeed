@@ -1,6 +1,1 @@
-flask
-diskcache
-cachetools
-podgen
-requests
-BeautifulSoup4
+Flask
